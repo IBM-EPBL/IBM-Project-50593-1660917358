@@ -1,13 +1,18 @@
 Project Name:
+
       Personal Expense Tracker Application
 
 Team Members:
       BHUVANESH S (Team Leader)
+      
       AVINASH R
+      
       BALAMURUGAN V
+      
       HARIPRASATH S
 
 Tech Stack:
+
 IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docker,IBM DB2,IBM Container Registry
 
 Project Description:
